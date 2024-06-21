@@ -1,0 +1,15 @@
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\bin\Debug\net8.0\GradientBoostingTrees.exe
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\bin\Debug\net8.0\GradientBoostingTrees.deps.json
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\bin\Debug\net8.0\GradientBoostingTrees.runtimeconfig.json
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\bin\Debug\net8.0\GradientBoostingTrees.dll
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\bin\Debug\net8.0\GradientBoostingTrees.pdb
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\obj\Debug\net8.0\GradientBoostingTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\obj\Debug\net8.0\GradientBoostingTrees.AssemblyInfoInputs.cache
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\obj\Debug\net8.0\GradientBoostingTrees.AssemblyInfo.cs
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\obj\Debug\net8.0\GradientBoostingTrees.csproj.CoreCompileInputs.cache
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\obj\Debug\net8.0\GradientBoostingTrees.dll
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\obj\Debug\net8.0\refint\GradientBoostingTrees.dll
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\obj\Debug\net8.0\GradientBoostingTrees.pdb
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\obj\Debug\net8.0\GradientBoostingTrees.genruntimeconfig.cache
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\obj\Debug\net8.0\ref\GradientBoostingTrees.dll
+C:\Users\jglov\RiderProjects\GradientBoostingTrees\GradientBoostingTrees\bin\Debug\net8.0\weatheryearcomparison.csv
